@@ -1,0 +1,12 @@
+D:\EWADB3\EWADB3\EWADB3\CloudHRMS.ReportUIHelper\bin\Debug\CloudHRMS.ReportUIHelper.exe.config
+D:\EWADB3\EWADB3\EWADB3\CloudHRMS.ReportUIHelper\bin\Debug\CloudHRMS.ReportUIHelper.exe
+D:\EWADB3\EWADB3\EWADB3\CloudHRMS.ReportUIHelper\bin\Debug\CloudHRMS.ReportUIHelper.pdb
+D:\EWADB3\EWADB3\EWADB3\CloudHRMS.ReportUIHelper\bin\Debug\CloudHRMS.ReportHelper.dll
+D:\EWADB3\EWADB3\EWADB3\CloudHRMS.ReportUIHelper\bin\Debug\CloudHRMS.ReportHelper.pdb
+D:\EWADB3\EWADB3\EWADB3\CloudHRMS.ReportUIHelper\obj\Debug\CloudHRMS.ReportUIHelper.csproj.AssemblyReference.cache
+D:\EWADB3\EWADB3\EWADB3\CloudHRMS.ReportUIHelper\obj\Debug\CloudHRMS.ReportUIHelper.Properties.Resources.resources
+D:\EWADB3\EWADB3\EWADB3\CloudHRMS.ReportUIHelper\obj\Debug\CloudHRMS.ReportUIHelper.csproj.GenerateResource.cache
+D:\EWADB3\EWADB3\EWADB3\CloudHRMS.ReportUIHelper\obj\Debug\CloudHRMS.ReportUIHelper.csproj.CoreCompileInputs.cache
+D:\EWADB3\EWADB3\EWADB3\CloudHRMS.ReportUIHelper\obj\Debug\CloudHRM.43D45E4D.Up2Date
+D:\EWADB3\EWADB3\EWADB3\CloudHRMS.ReportUIHelper\obj\Debug\CloudHRMS.ReportUIHelper.exe
+D:\EWADB3\EWADB3\EWADB3\CloudHRMS.ReportUIHelper\obj\Debug\CloudHRMS.ReportUIHelper.pdb
